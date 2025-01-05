@@ -1,0 +1,17 @@
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\MonitorTemperatura.exe
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\MonitorTemperatura.deps.json
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\MonitorTemperatura.runtimeconfig.json
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\MonitorTemperatura.dll
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\MonitorTemperatura.pdb
+C:\Users\artur\MonitorTemperatura\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.csproj.AssemblyReference.cache
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.AssemblyInfoInputs.cache
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.AssemblyInfo.cs
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorT.ED39AC24.Up2Date
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.dll
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\refint\MonitorTemperatura.dll
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.pdb
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\MonitorTemperatura.genruntimeconfig.cache
+C:\Users\artur\MonitorTemperatura\obj\Debug\net8.0-windows\ref\MonitorTemperatura.dll
