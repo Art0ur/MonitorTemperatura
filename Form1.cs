@@ -40,8 +40,8 @@ namespace WeatherWidget
                 string responseBody = await response.Content.ReadAsStringAsync();
                 JObject json = JObject.Parse(responseBody);
 
-                string clima = json["weather"][0]["description"].ToString();
-                string temperatura = json["main"]["temp"].ToString();
+                string clima = json["weather"]?[0]?["description"]?.ToString() ?? "N/A";
+                string temperatura = json["main"]?["temp"]?.ToString() ?? "N/A";
 
                 lblClima.Text = $"Clima: {clima}";
                 lblTemperatura.Text = $"Temperatura: {temperatura} °C";
@@ -52,5 +52,6 @@ namespace WeatherWidget
                 MessageBox.Show($"Não foi possível obter os dados climáticos. Erro: {mensagemErro}");
             }
         }
+
     }
 }

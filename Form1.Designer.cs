@@ -49,7 +49,7 @@
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(178, 26);
             this.lblTitulo.TabIndex = 5;
-            this.lblTitulo.Text = "Monitor de Temperarura";
+            this.lblTitulo.Text = "Widget do tempo";
 
             // panelBottom
             this.panelBottom.Controls.Add(this.lblCidade);
@@ -119,7 +119,7 @@
             this.Controls.Add(this.panelBottom);
             this.Controls.Add(this.panelTop);
             this.Name = "Form1";
-            this.Text = "Monitor de Temperarura";
+            this.Text = "Widget do tempo";
             this.ResumeLayout(false);
             this.PerformLayout();
         }
