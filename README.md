@@ -42,7 +42,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## Exemplos de Uso
 - Insira o nome de uma cidade.
 - Clique no botão "Buscar".
-- Veja os dados climáticos atuais da cidade especificada
+- Veja os dados climáticos atuais da cidade especificada.
 
 ![image](https://github.com/user-attachments/assets/ef49424f-49b2-4fce-b5c2-2c9e4fc303ba)
 
